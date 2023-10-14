@@ -1,5 +1,5 @@
 # Blogs-Website-
-It is a React JS based blogs website in which concept of Context API in react JS is used . It uses createContext hook also it uses the Context Provider to use the context in our App anywhere.There are few steps tos use Context API.</br>
+It is a React JS based blogs website in which concept of Context API in react JS is used . It uses createContext hook also it uses the Context Provider to use the context in our App anywhere.There are few steps to use Context API.</br></br>
 1.Create the context using createContext.</br>
 2.Make a context provider function and fill all the dynamic data in it and prepare an object which contains whole data and functions to update that data.</br>
 3.return the provider with passing the object in the props and pass children inside the tag so that our app component and its child can access the data.</br>
